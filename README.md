@@ -1,7 +1,7 @@
-####       ####
-###  4-Dev  ###
-##           ##
-#             #
+####        ####
+###  S-kro_  ###
+##            ##
+#              #
 
 # Anti-roulade
 Description du script :
